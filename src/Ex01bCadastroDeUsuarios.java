@@ -6,7 +6,7 @@ import java.util.Scanner;
  * CASO TENHA ESSE VALOR NA MEMORIA RETORNAR "USUARIO ENCONTRADO
  * CASO NAO RETORNAR "USUARIO NÃO ENCONTRADO!
  */
-public class Ex01CadastroDeUsuarios {
+public class Ex01bCadastroDeUsuarios {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         String[] nomes = new String[5];
